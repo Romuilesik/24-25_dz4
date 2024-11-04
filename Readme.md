@@ -6,7 +6,7 @@
 
 ## Why I Recommend Python 3.13
 
-Based on my calculations, Python 3.13 is **2.2** times faster than Python 3.12! For the best user experience, I recommend using version 3.13 or higher. As of the time of writing, the latest Python version is 3.13.0.
+Based on my calculations, Python 3.13 is **2.2** times faster than Python 3.12! For the best user experience, I recommend using version 3.13 or higher. *(As of the time of writing, the latest Python version is 3.13.0.)*
 
 ## Why Python 3.7 or Higher is Required
 
